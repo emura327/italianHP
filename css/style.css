@@ -112,6 +112,42 @@ nav a:hover{
 }
 
 .menu_box ul{
+	text-align: left;
+	font-size: 0.8em;
+	margin-left: 3%;
+}
+
+#access {
 	text-align: center;
-	font-size: 0.8;
+}
+
+#access iframe{
+	width: 70%;
+}
+
+#access_logo {
+	margin-bottom: -40px;
+}
+
+#access_map{
+	float: left;
+	width: 50%;
+}
+
+#access_txt{
+	float: right;
+	width: 50%;
+	text-align: left;
+	margin-top: 60px;
+}
+
+#access_reserve{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+footer {
+	background-color: #c20d23;
+	color: #fff;
+	text-align: center;
 }
